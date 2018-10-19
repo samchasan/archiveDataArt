@@ -1,0 +1,26 @@
+{
+  "name": "archive_proj",
+  "version": "1.0.0",
+  "description": "made for archive project",
+  "main": "cleanUp.js",
+  "scripts": {
+    "test": "new file made"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samchasan/archiveDataArt.git"
+  },
+  "keywords": [
+    "data",
+    "art"
+  ],
+  "author": "sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samchasan/archiveDataArt/issues"
+  },
+  "homepage": "https://github.com/samchasan/archiveDataArt#readme",
+  "dependencies": {
+    "vader-sentiment": "^1.1.3"
+  }
+}
